@@ -1,6 +1,6 @@
 - Hey There!👋
 
-- I’m Ali Zander. R
+- I’m Ali Zander R.
 
 <!---
 Galaxiplan/Galaxiplan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
