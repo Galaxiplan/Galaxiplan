@@ -1,5 +1,5 @@
 Hey There!👋
-I’m Ali Zander Ramon
+I’m Ali Zander Ramon`#0000FF`
 
 > “The Only Constant in Life Is Change.”- Heraclitus
 
