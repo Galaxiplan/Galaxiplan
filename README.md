@@ -1,6 +1,6 @@
 <h1 style="background-color:rgb(255, 99, 71);">Hey There!👋</h1>
 
-<h1 style="background-color:#ff6347;">I’m Ali Zander Ramon</h1>
+<h2 style="background-color:#ff6347;">I’m Ali Zander Ramon</h2>
 
  
 > “The Only Constant in Life Is Change.
