@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ali Zander Ramon</h1>
+<h1 align="center">Hi There! 👋, I'm Ali Zander Ramon</h1>
 
 
-> **“The Only Constant in Life Is Change.-Heraclitus”**
+> **“The Only Constant in Life Is Change.
+> -Heraclitus”**
 
 
 <!---
