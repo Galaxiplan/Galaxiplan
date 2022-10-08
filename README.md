@@ -1,6 +1,4 @@
-<h1 style="color:Tomato;">Hello World</h1>
-
-Hey There!👋
+<h1 style="color:Tomato;">Hey There!👋</h1>
 
 I’m Ali Zander Ramon
  
