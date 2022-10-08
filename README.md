@@ -1,4 +1,4 @@
-<h1 style="border:2px solid DodgerBlue;">Hey There!👋</h1>
+<h1 style="background-color:rgb(255, 99, 71);">Hey There!👋</h1>
 
 I’m Ali Zander Ramon
  
