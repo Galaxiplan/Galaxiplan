@@ -1,6 +1,7 @@
-- Hey There!👋
+> Text that is a quote
 
-- I’m Ali Zander R.
+Hey There!👋
+I’m Ali Zander Ramon
 
 <!---
 Galaxiplan/Galaxiplan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
