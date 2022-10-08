@@ -3,7 +3,7 @@ Hey There!👋
 - I’m Ali Zander Ramon
  
 > “The Only Constant in Life Is Change.
-> - Heraclitus”
+> Heraclitus”
 
 
 <!---
